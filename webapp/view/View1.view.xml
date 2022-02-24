@@ -10,6 +10,7 @@
                 <Page id="page" title="{i18n>title}">
                     <content>
                     <Button text="click"></Button>
+                    <Button text="Rkbranch"></Button>
                     </content>
                 </Page>
             </pages>
